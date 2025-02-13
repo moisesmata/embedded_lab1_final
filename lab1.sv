@@ -3,7 +3,7 @@
 // Spring 2025
 //
 // By:  Isaac Trost, Robbie Pendergrast, Moises Mata
-// Uni: <your uni here>
+// Uni: wit2102, rlp2153, mm6155
 
 module lab1( input logic        CLOCK_50,  // 50 MHz Clock input
 	     
